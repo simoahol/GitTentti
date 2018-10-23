@@ -1,0 +1,21 @@
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.deps.json
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.runtimeconfig.json
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.runtimeconfig.dev.json
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.dll
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.pdb
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.csproj.CoreCompileInputs.cache
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.AssemblyInfoInputs.cache
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.AssemblyInfo.cs
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.dll
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.pdb
+C:\Users\k1401581\Desktop\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.deps.json
+C:\Users\k1401581\Desktop\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.runtimeconfig.json
+C:\Users\k1401581\Desktop\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.runtimeconfig.dev.json
+C:\Users\k1401581\Desktop\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.dll
+C:\Users\k1401581\Desktop\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.pdb
+C:\Users\k1401581\Desktop\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.csprojAssemblyReference.cache
+C:\Users\k1401581\Desktop\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.csproj.CoreCompileInputs.cache
+C:\Users\k1401581\Desktop\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.AssemblyInfoInputs.cache
+C:\Users\k1401581\Desktop\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.AssemblyInfo.cs
+C:\Users\k1401581\Desktop\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.dll
+C:\Users\k1401581\Desktop\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.pdb
